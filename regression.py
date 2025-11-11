@@ -10,4 +10,5 @@ model = LinearRegression()
 model.fit(x, y)
 
 # Predict for new data
-print(model.predict([[6]]))
+print(model.predict([[12]]))
+
